@@ -17,7 +17,7 @@
     <?= $header ?>
     <!-- Custom update button for jquery -->
     <div class="d-flex justify-content-center">
-        <button class="btn btn-primary mb-2" id="update">Update</button>
+        <button class="btn btn-primary mb-2" id="update">Reload</button>
     </div>
     <table class="table table-bordered" id="my-table">
         <thead>
